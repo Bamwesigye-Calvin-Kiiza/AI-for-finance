@@ -1,0 +1,49 @@
+/* publications.css */
+
+.publications {
+    margin-top: 50px;
+  }
+  
+  .publications h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .publications hr {
+    border-top: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+  
+  .publication-item {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .publication-item h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .authors {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 5px;
+  }
+  
+  .conference {
+    margin-bottom: 10px;
+    color: #888;
+  }
+  
+  .paper-link a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .paper-link a:hover {
+    text-decoration: underline;
+  }
+  
